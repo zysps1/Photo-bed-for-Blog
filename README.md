@@ -1,2 +1,2 @@
 # personal-photos
-Photos on Blgo
+Photos on Blog
